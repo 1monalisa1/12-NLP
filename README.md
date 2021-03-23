@@ -26,3 +26,7 @@
 ### Named Entity Recognition
 ![NER-BTC](https://github.com/1monalisa1/12-NLP/blob/8751385479e4f3dd38f80e6296239484c381511f/Images/12-NER-BTC.png)
 ![NER-ETH](https://github.com/1monalisa1/12-NLP/blob/8751385479e4f3dd38f80e6296239484c381511f/Images/12-NER-ETH.png)
+
+--------------------------------------
+
+![12-Mona-Sentiment](https://github.com/1monalisa1/12-NLP/blob/6e0c7d7118d398ea59d7ff07939c1c255f15ef0c/Images/12-Mona-Sentiment.png)
