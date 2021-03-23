@@ -18,10 +18,11 @@ A:
 
 --------------------------------------
 ### Natural Language Processing
-
-
-
+![Cloud-BTC](https://github.com/1monalisa1/12-NLP/blob/8751385479e4f3dd38f80e6296239484c381511f/Images/12-Cloud-BTC.png)
+![Cloud-ETH](https://github.com/1monalisa1/12-NLP/blob/8751385479e4f3dd38f80e6296239484c381511f/Images/12-Cloud-ETH.png)
 
 
 --------------------------------------
 ### Named Entity Recognition
+![NER-BTC](https://github.com/1monalisa1/12-NLP/blob/8751385479e4f3dd38f80e6296239484c381511f/Images/12-NER-BTC.png)
+![NER-ETH](https://github.com/1monalisa1/12-NLP/blob/8751385479e4f3dd38f80e6296239484c381511f/Images/12-NER-ETH.png)
