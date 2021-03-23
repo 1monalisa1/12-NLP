@@ -7,11 +7,11 @@
 
 ### Sentiment Analysis
 *Which coin had the highest mean positive score?*
-  * Ethereum
+ * Ethereum
 *Which coin had the highest negative score?*
-  * Bitcoin
+ * Bitcoin
 *Which coin had the highest positive score?*
-  * Ethereum
+ * Ethereum
 
 ![Sentiment-BTC](https://github.com/1monalisa1/12-NLP/blob/e82196afb635daa950c8f7207248fd1d50ec5f37/Images/12-Sentiment-BTC.png)
 ![Sentiment-ETH](https://github.com/1monalisa1/12-NLP/blob/e82196afb635daa950c8f7207248fd1d50ec5f37/Images/12-Sentiment-ETH.png)
