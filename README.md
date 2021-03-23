@@ -7,7 +7,7 @@
 
 ### Sentiment Analysis
 Q: *Which coin had the highest mean positive score?*
-A:
+A: Ethereum
 Q: *Which coin had the highest compound score?*
 A:
 Q: *Which coin had the highest positive score?*
