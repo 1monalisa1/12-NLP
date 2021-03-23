@@ -5,7 +5,7 @@
 
 ## Tales from the Crypto
 
-### Sentiment Analysis:
+### Sentiment Analysis
 Q: *Which coin had the highest mean positive score?*
 A:
 Q: *Which coin had the highest compound score?*
