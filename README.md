@@ -10,7 +10,7 @@ Q: *Which coin had the highest mean positive score?*
 A:
 Q: *Which coin had the highest compound score?*
 A:
-Q. *Which coin had the highest positive score?*
+Q: *Which coin had the highest positive score?*
 A:
 
 --------------------------------------
