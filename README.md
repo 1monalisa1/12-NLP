@@ -1,4 +1,4 @@
-# Unit 12: NLP • Natural Language Processing
+# Unit 12:  NLP • Natural Language Processing
 #### Columbia University • Fu Foundation School of Engineering & Applied Science
 ##### Contributor:  Lisa Esberger
 ##### Published:  March 22, 2021
